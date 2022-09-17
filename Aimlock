@@ -157,4 +157,4 @@ CanNotify = true
     end
 end)
 
-SeparateNotify("TACKYaim", "Universal Aimbot loaded in: "..string.format("%.7f", tostring(tick() - FuckHoodUniversalAimbotLoadingTime)), "", 3)
+SeparateNotify("L$Z PREM", "AimLock: "..string.format("%.7f", tostring(tick() - FuckHoodUniversalAimbotLoadingTime)), "", 3)
